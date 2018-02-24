@@ -1,4 +1,4 @@
-application [SDRS-SCMS:AnnuaireEtApprovisionnement] version 3.0.0.0	
+application [SDRS-SCMS:AnnuaireEtApprovisionnement] version 3.0.0.0 (module 5)	
 
 	
 	************************************
